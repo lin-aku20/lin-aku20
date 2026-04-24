@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <h1>Hi there ðŸ‘‹, I'm lin-aku20</h1>
   <p><b>Creator of CAINE - The Autonomous AI OS Assistant</b></p>
 </div>
